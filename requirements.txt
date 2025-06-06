@@ -7,3 +7,4 @@ python-multipart==0.0.9
 python-jose==3.3.0
 pydantic==2.6.1
 pillow==10.2.0 
+onnxruntime
